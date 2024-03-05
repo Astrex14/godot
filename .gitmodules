@@ -1,0 +1,3 @@
+[submodule "modules/voxel"]
+	path = modules/voxel
+	url = https://github.com/Astrex14/godot_voxel.git
